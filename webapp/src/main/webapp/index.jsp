@@ -31,11 +31,11 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-<<<<<<< HEAD
+    HEAD
    <h1> Thankyou, Have a Good day. </h1>
 =======
    <h1> Thankyou, Have a Good day . </h1>
->>>>>>> dfe00b749b097a8107fb5e3f4e39c416fd6eadb9
+
 
   
 </form>
