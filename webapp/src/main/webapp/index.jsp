@@ -34,7 +34,7 @@
 <<<<<<< HEAD
    <h1> Thankyou, Have a Good day. </h1>
 =======
-   <h1> Thankyou, Have a Good day Raj Anna. </h1>
+   <h1> Thankyou, Have a Good day . </h1>
 >>>>>>> dfe00b749b097a8107fb5e3f4e39c416fd6eadb9
 
   
